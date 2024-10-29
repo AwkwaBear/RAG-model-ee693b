@@ -1,1 +1,4 @@
 set_api_keys.py
+.env
+/data/
+/output/
